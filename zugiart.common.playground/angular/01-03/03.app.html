@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<!-- load angular framework -->
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+
+<!-- load app init js -->
+<script src="03.app.js"></script>
+<body>
+
+<div ng-app="myApp" ng-controller="myCtrl">
+		<p><input type="text" ng-model="v_nameFilter"></p>
+		
+		<!-- for loop -->
+		<ul>for each v_acc in $scope.d_accountList:
+			<li ng-repeat="v_acc in d_accountList | filter:v_nameFilter | orderBy:'balance'">
+				index {{ $index }} ## {{ v_acc.id }} - {{v_acc.name }}, {{v_acc.balance | currency}}
+			</li>
+		</ul>
+	</div>
+
+</body>
+</html>

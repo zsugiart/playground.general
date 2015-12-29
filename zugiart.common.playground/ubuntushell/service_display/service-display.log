@@ -1,0 +1,407 @@
+2013-11-17 14:35:08,993 - ubuntu.display.service - INFO - server starting at port 5789
+2013-11-17 14:35:09,287 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-17 14:35:09,288 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-17 14:35:09,288 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-17 14:35:09,288 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-17 14:35:09,288 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-17 14:35:09,289 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-17 14:35:09,289 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-17 14:35:09,289 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-17 14:35:09,290 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-17 14:35:09,290 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-17 14:35:09,290 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-17 14:35:09,290 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-17 14:35:09,291 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-17 14:35:09,291 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-17 14:35:09,291 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-17 14:35:09,291 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-17 14:35:09,291 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-17 14:35:09,291 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-17 14:35:09,291 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-17 14:35:09,291 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-17 14:35:09,292 - ubuntu.display.service - INFO - HDMI1 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:35:09,292 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:35:09,292 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:35:09,292 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:35:09,292 - ubuntu.display.service - INFO - 
+2013-11-17 14:35:57,513 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-17 14:35:57,513 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-17 14:35:57,514 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-17 14:35:57,514 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-17 14:35:57,514 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-17 14:35:57,514 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-17 14:35:57,515 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-17 14:35:57,515 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-17 14:35:57,515 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-17 14:35:57,515 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-17 14:35:57,515 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-17 14:35:57,516 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-17 14:35:57,516 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-17 14:35:57,516 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-17 14:35:57,516 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-17 14:35:57,516 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-17 14:35:57,516 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-17 14:35:57,517 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-17 14:35:57,517 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-17 14:35:57,517 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-17 14:35:57,517 - ubuntu.display.service - INFO - HDMI1 connected (normal left inverted right x axis y axis)
+2013-11-17 14:35:57,518 - ubuntu.display.service - INFO -    1920x1080      60.0 +   30.0     24.0     30.0  
+2013-11-17 14:35:57,518 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-17 14:35:57,518 - ubuntu.display.service - INFO -    1360x768       59.8  
+2013-11-17 14:35:57,518 - ubuntu.display.service - INFO -    1280x720       60.0  
+2013-11-17 14:35:57,518 - ubuntu.display.service - INFO -    1024x768       75.1     70.1     60.0  
+2013-11-17 14:35:57,518 - ubuntu.display.service - INFO -    1440x480       30.0  
+2013-11-17 14:35:57,519 - ubuntu.display.service - INFO -    1440x480i      30.0  
+2013-11-17 14:35:57,519 - ubuntu.display.service - INFO -    800x600        72.2     75.0     60.3  
+2013-11-17 14:35:57,519 - ubuntu.display.service - INFO -    720x480        59.9  
+2013-11-17 14:35:57,519 - ubuntu.display.service - INFO -    640x480        72.8     75.0     60.0     59.9  
+2013-11-17 14:35:57,519 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:35:57,519 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:35:57,519 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:35:57,519 - ubuntu.display.service - INFO - 
+2013-11-17 14:36:20,267 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-17 14:36:20,267 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-17 14:36:20,267 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-17 14:36:20,268 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-17 14:36:20,268 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-17 14:36:20,268 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-17 14:36:20,268 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-17 14:36:20,268 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-17 14:36:20,269 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-17 14:36:20,269 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-17 14:36:20,269 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-17 14:36:20,269 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-17 14:36:20,269 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-17 14:36:20,269 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-17 14:36:20,270 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-17 14:36:20,270 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-17 14:36:20,270 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-17 14:36:20,270 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-17 14:36:20,270 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-17 14:36:20,271 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-17 14:36:20,271 - ubuntu.display.service - INFO - HDMI1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 708mm x 398mm
+2013-11-17 14:36:20,271 - ubuntu.display.service - INFO -    1920x1080      60.0*+   30.0     24.0     30.0  
+2013-11-17 14:36:20,271 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-17 14:36:20,271 - ubuntu.display.service - INFO -    1360x768       59.8  
+2013-11-17 14:36:20,271 - ubuntu.display.service - INFO -    1280x720       60.0  
+2013-11-17 14:36:20,271 - ubuntu.display.service - INFO -    1024x768       75.1     70.1     60.0  
+2013-11-17 14:36:20,271 - ubuntu.display.service - INFO -    1440x480       30.0  
+2013-11-17 14:36:20,272 - ubuntu.display.service - INFO -    1440x480i      30.0  
+2013-11-17 14:36:20,272 - ubuntu.display.service - INFO -    800x600        72.2     75.0     60.3  
+2013-11-17 14:36:20,272 - ubuntu.display.service - INFO -    720x480        59.9  
+2013-11-17 14:36:20,272 - ubuntu.display.service - INFO -    640x480        72.8     75.0     60.0     59.9  
+2013-11-17 14:36:20,272 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:36:20,272 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:36:20,272 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-17 14:36:20,272 - ubuntu.display.service - INFO - 
+2013-11-17 21:01:56,935 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-17 21:01:56,936 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-17 21:01:56,937 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-17 21:01:56,937 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-17 21:01:56,937 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-17 21:01:56,937 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-17 21:01:56,937 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-17 21:01:56,938 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-17 21:01:56,938 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-17 21:01:56,938 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-17 21:01:56,938 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-17 21:01:56,938 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-17 21:01:56,939 - ubuntu.display.service - INFO - HDMI1 connected (normal left inverted right x axis y axis)
+2013-11-17 21:01:56,939 - ubuntu.display.service - INFO -    1920x1080      60.0 +   30.0     24.0     30.0  
+2013-11-17 21:01:56,939 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-17 21:01:56,939 - ubuntu.display.service - INFO -    1360x768       59.8  
+2013-11-17 21:01:56,940 - ubuntu.display.service - INFO -    1280x720       60.0  
+2013-11-17 21:01:56,940 - ubuntu.display.service - INFO -    1024x768       75.1     70.1     60.0  
+2013-11-17 21:01:56,940 - ubuntu.display.service - INFO -    1440x480       30.0  
+2013-11-17 21:01:56,940 - ubuntu.display.service - INFO -    1440x480i      30.0  
+2013-11-17 21:01:56,941 - ubuntu.display.service - INFO -    800x600        72.2     75.0     60.3  
+2013-11-17 21:01:56,941 - ubuntu.display.service - INFO -    720x480        59.9  
+2013-11-17 21:01:56,941 - ubuntu.display.service - INFO -    640x480        72.8     75.0     60.0     59.9  
+2013-11-17 21:01:56,941 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-17 21:01:56,941 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-17 21:01:56,942 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-17 21:01:56,942 - ubuntu.display.service - INFO - 
+2013-11-18 00:09:10,063 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-18 00:09:10,063 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-18 00:09:10,064 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO - HDMI1 disconnected (normal left inverted right x axis y axis)
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-18 00:09:10,065 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-18 00:09:10,066 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-18 00:09:10,066 - ubuntu.display.service - INFO - 
+2013-11-18 00:09:13,635 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-18 00:09:13,635 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-18 00:09:13,635 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-18 00:09:13,636 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-18 00:09:13,636 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-18 00:09:13,636 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-18 00:09:13,636 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-18 00:09:13,636 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-18 00:09:13,637 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-18 00:09:13,637 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-18 00:09:13,637 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-18 00:09:13,637 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-18 00:09:13,637 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-18 00:09:13,638 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-18 00:09:13,638 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-18 00:09:13,638 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-18 00:09:13,638 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-18 00:09:13,639 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-18 00:09:13,639 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-18 00:09:13,639 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-18 00:09:13,639 - ubuntu.display.service - INFO - HDMI1 connected (normal left inverted right x axis y axis)
+2013-11-18 00:09:13,639 - ubuntu.display.service - INFO -    1920x1080      60.0 +   30.0     24.0     30.0  
+2013-11-18 00:09:13,640 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-18 00:09:13,640 - ubuntu.display.service - INFO -    1360x768       59.8  
+2013-11-18 00:09:13,640 - ubuntu.display.service - INFO -    1280x720       60.0  
+2013-11-18 00:09:13,640 - ubuntu.display.service - INFO -    1024x768       75.1     70.1     60.0  
+2013-11-18 00:09:13,640 - ubuntu.display.service - INFO -    1440x480       30.0  
+2013-11-18 00:09:13,640 - ubuntu.display.service - INFO -    1440x480i      30.0  
+2013-11-18 00:09:13,641 - ubuntu.display.service - INFO -    800x600        72.2     75.0     60.3  
+2013-11-18 00:09:13,641 - ubuntu.display.service - INFO -    720x480        59.9  
+2013-11-18 00:09:13,641 - ubuntu.display.service - INFO -    640x480        72.8     75.0     60.0     59.9  
+2013-11-18 00:09:13,641 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-18 00:09:13,641 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-18 00:09:13,641 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-18 00:09:13,641 - ubuntu.display.service - INFO - 
+2013-11-18 23:57:55,411 - ubuntu.display.service - INFO - 
+2013-11-18 23:57:58,981 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-18 23:57:58,982 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-18 23:57:58,982 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-18 23:57:58,982 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-18 23:57:58,982 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-18 23:57:58,983 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-18 23:57:58,983 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-18 23:57:58,983 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-18 23:57:58,983 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-18 23:57:58,983 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-18 23:57:58,984 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-18 23:57:58,984 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-18 23:57:58,984 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-18 23:57:58,984 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-18 23:57:58,984 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-18 23:57:58,985 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-18 23:57:58,985 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-18 23:57:58,985 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-18 23:57:58,985 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-18 23:57:58,985 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-18 23:57:58,986 - ubuntu.display.service - INFO - HDMI1 connected (normal left inverted right x axis y axis)
+2013-11-18 23:57:58,986 - ubuntu.display.service - INFO -    1920x1080      60.0 +   30.0     24.0     30.0  
+2013-11-18 23:57:58,986 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-18 23:57:58,986 - ubuntu.display.service - INFO -    1360x768       59.8  
+2013-11-18 23:57:58,986 - ubuntu.display.service - INFO -    1280x720       60.0  
+2013-11-18 23:57:58,987 - ubuntu.display.service - INFO -    1024x768       75.1     70.1     60.0  
+2013-11-18 23:57:58,987 - ubuntu.display.service - INFO -    1440x480       30.0  
+2013-11-18 23:57:58,987 - ubuntu.display.service - INFO -    1440x480i      30.0  
+2013-11-18 23:57:58,987 - ubuntu.display.service - INFO -    800x600        72.2     75.0     60.3  
+2013-11-18 23:57:58,988 - ubuntu.display.service - INFO -    720x480        59.9  
+2013-11-18 23:57:58,988 - ubuntu.display.service - INFO -    640x480        72.8     75.0     60.0     59.9  
+2013-11-18 23:57:58,988 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-18 23:57:58,988 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-18 23:57:58,988 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-18 23:57:58,988 - ubuntu.display.service - INFO - 
+2013-11-19 03:07:54,083 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-19 03:07:54,083 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-19 03:07:54,083 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-19 03:07:54,084 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-19 03:07:54,084 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-19 03:07:54,084 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-19 03:07:54,084 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-19 03:07:54,084 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-19 03:07:54,085 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-19 03:07:54,085 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-19 03:07:54,085 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-19 03:07:54,085 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-19 03:07:54,085 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-19 03:07:54,086 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-19 03:07:54,086 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-19 03:07:54,086 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-19 03:07:54,086 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-19 03:07:54,086 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-19 03:07:54,087 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-19 03:07:54,087 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-19 03:07:54,087 - ubuntu.display.service - INFO - HDMI1 disconnected (normal left inverted right x axis y axis)
+2013-11-19 03:07:54,087 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-19 03:07:54,087 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-19 03:07:54,088 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-19 03:07:54,088 - ubuntu.display.service - INFO - 
+2013-11-19 03:07:57,661 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-19 03:07:57,661 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-19 03:07:57,661 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-19 03:07:57,662 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-19 03:07:57,662 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-19 03:07:57,662 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-19 03:07:57,662 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-19 03:07:57,662 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-19 03:07:57,663 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-19 03:07:57,663 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-19 03:07:57,663 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-19 03:07:57,663 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-19 03:07:57,663 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-19 03:07:57,664 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-19 03:07:57,664 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-19 03:07:57,664 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-19 03:07:57,664 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-19 03:07:57,664 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-19 03:07:57,665 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-19 03:07:57,665 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-19 03:07:57,665 - ubuntu.display.service - INFO - HDMI1 connected (normal left inverted right x axis y axis)
+2013-11-19 03:07:57,665 - ubuntu.display.service - INFO -    1920x1080      60.0 +   30.0     24.0     30.0  
+2013-11-19 03:07:57,665 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-19 03:07:57,666 - ubuntu.display.service - INFO -    1360x768       59.8  
+2013-11-19 03:07:57,666 - ubuntu.display.service - INFO -    1280x720       60.0  
+2013-11-19 03:07:57,666 - ubuntu.display.service - INFO -    1024x768       75.1     70.1     60.0  
+2013-11-19 03:07:57,666 - ubuntu.display.service - INFO -    1440x480       30.0  
+2013-11-19 03:07:57,666 - ubuntu.display.service - INFO -    1440x480i      30.0  
+2013-11-19 03:07:57,667 - ubuntu.display.service - INFO -    800x600        72.2     75.0     60.3  
+2013-11-19 03:07:57,667 - ubuntu.display.service - INFO -    720x480        59.9  
+2013-11-19 03:07:57,667 - ubuntu.display.service - INFO -    640x480        72.8     75.0     60.0     59.9  
+2013-11-19 03:07:57,667 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-19 03:07:57,667 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-19 03:07:57,668 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-19 03:07:57,668 - ubuntu.display.service - INFO - 
+2013-11-19 12:04:54,830 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-19 12:04:54,830 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-19 12:04:54,830 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-19 12:04:54,830 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-19 12:04:54,830 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-19 12:04:54,831 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-19 12:04:54,832 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-19 12:04:54,832 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-19 12:04:54,832 - ubuntu.display.service - INFO - HDMI1 disconnected (normal left inverted right x axis y axis)
+2013-11-19 12:04:54,832 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-19 12:04:54,832 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-19 12:04:54,832 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-19 12:04:54,832 - ubuntu.display.service - INFO - 
+2013-11-19 12:04:58,405 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-19 12:04:58,405 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-19 12:04:58,405 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-19 12:04:58,405 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-19 12:04:58,406 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-19 12:04:58,406 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-19 12:04:58,406 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-19 12:04:58,406 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-19 12:04:58,406 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-19 12:04:58,407 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-19 12:04:58,407 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-19 12:04:58,407 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-19 12:04:58,407 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-19 12:04:58,407 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-19 12:04:58,408 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-19 12:04:58,408 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-19 12:04:58,408 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-19 12:04:58,408 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-19 12:04:58,408 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-19 12:04:58,409 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-19 12:04:58,409 - ubuntu.display.service - INFO - HDMI1 connected (normal left inverted right x axis y axis)
+2013-11-19 12:04:58,409 - ubuntu.display.service - INFO -    1920x1080      60.0 +   30.0     24.0     30.0  
+2013-11-19 12:04:58,409 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-19 12:04:58,409 - ubuntu.display.service - INFO -    1360x768       59.8  
+2013-11-19 12:04:58,410 - ubuntu.display.service - INFO -    1280x720       60.0  
+2013-11-19 12:04:58,410 - ubuntu.display.service - INFO -    1024x768       75.1     70.1     60.0  
+2013-11-19 12:04:58,410 - ubuntu.display.service - INFO -    1440x480       30.0  
+2013-11-19 12:04:58,410 - ubuntu.display.service - INFO -    1440x480i      30.0  
+2013-11-19 12:04:58,410 - ubuntu.display.service - INFO -    800x600        72.2     75.0     60.3  
+2013-11-19 12:04:58,411 - ubuntu.display.service - INFO -    720x480        59.9  
+2013-11-19 12:04:58,411 - ubuntu.display.service - INFO -    640x480        72.8     75.0     60.0     59.9  
+2013-11-19 12:04:58,411 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-19 12:04:58,411 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-19 12:04:58,411 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-19 12:04:58,412 - ubuntu.display.service - INFO - 
+2013-11-21 03:07:52,798 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-21 03:07:52,799 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO - HDMI1 disconnected (normal left inverted right x axis y axis)
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-21 03:07:52,800 - ubuntu.display.service - INFO - 
+2013-11-21 03:07:56,370 - ubuntu.display.service - INFO - Screen 0: minimum 320 x 200, current 1920 x 1080, maximum 8192 x 8192
+2013-11-21 03:07:56,370 - ubuntu.display.service - INFO - LVDS1 connected (normal left inverted right x axis y axis)
+2013-11-21 03:07:56,370 - ubuntu.display.service - INFO -    1600x900       60.0 +   40.0  
+2013-11-21 03:07:56,371 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-21 03:07:56,371 - ubuntu.display.service - INFO -    1360x768       59.8     60.0  
+2013-11-21 03:07:56,371 - ubuntu.display.service - INFO -    1152x864       60.0  
+2013-11-21 03:07:56,371 - ubuntu.display.service - INFO -    1024x768       60.0  
+2013-11-21 03:07:56,371 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-21 03:07:56,372 - ubuntu.display.service - INFO -    640x480        59.9  
+2013-11-21 03:07:56,372 - ubuntu.display.service - INFO - VGA1 connected 1920x1080+0+0 (normal left inverted right x axis y axis) 510mm x 287mm
+2013-11-21 03:07:56,372 - ubuntu.display.service - INFO -    1920x1080      60.0*+
+2013-11-21 03:07:56,372 - ubuntu.display.service - INFO -    1680x1050      60.0  
+2013-11-21 03:07:56,372 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-21 03:07:56,373 - ubuntu.display.service - INFO -    1440x900       59.9  
+2013-11-21 03:07:56,373 - ubuntu.display.service - INFO -    1280x800       59.8  
+2013-11-21 03:07:56,373 - ubuntu.display.service - INFO -    1152x864       75.0  
+2013-11-21 03:07:56,373 - ubuntu.display.service - INFO -    1024x768       70.1     60.0  
+2013-11-21 03:07:56,373 - ubuntu.display.service - INFO -    800x600        60.3     56.2  
+2013-11-21 03:07:56,374 - ubuntu.display.service - INFO -    640x480        66.7     60.0  
+2013-11-21 03:07:56,374 - ubuntu.display.service - INFO -    720x400        70.1  
+2013-11-21 03:07:56,374 - ubuntu.display.service - INFO - HDMI1 connected (normal left inverted right x axis y axis)
+2013-11-21 03:07:56,374 - ubuntu.display.service - INFO -    1920x1080      60.0 +   30.0     24.0     30.0  
+2013-11-21 03:07:56,375 - ubuntu.display.service - INFO -    1280x1024      60.0  
+2013-11-21 03:07:56,375 - ubuntu.display.service - INFO -    1360x768       59.8  
+2013-11-21 03:07:56,375 - ubuntu.display.service - INFO -    1280x720       60.0  
+2013-11-21 03:07:56,375 - ubuntu.display.service - INFO -    1024x768       75.1     70.1     60.0  
+2013-11-21 03:07:56,375 - ubuntu.display.service - INFO -    1440x480       30.0  
+2013-11-21 03:07:56,376 - ubuntu.display.service - INFO -    1440x480i      30.0  
+2013-11-21 03:07:56,376 - ubuntu.display.service - INFO -    800x600        72.2     75.0     60.3  
+2013-11-21 03:07:56,376 - ubuntu.display.service - INFO -    720x480        59.9  
+2013-11-21 03:07:56,376 - ubuntu.display.service - INFO -    640x480        72.8     75.0     60.0     59.9  
+2013-11-21 03:07:56,376 - ubuntu.display.service - INFO - DP1 disconnected (normal left inverted right x axis y axis)
+2013-11-21 03:07:56,377 - ubuntu.display.service - INFO - HDMI2 disconnected (normal left inverted right x axis y axis)
+2013-11-21 03:07:56,377 - ubuntu.display.service - INFO - DP2 disconnected (normal left inverted right x axis y axis)
+2013-11-21 03:07:56,377 - ubuntu.display.service - INFO - 
