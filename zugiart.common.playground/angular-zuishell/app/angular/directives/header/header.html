@@ -1,0 +1,44 @@
+<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+    <div class="navbar-header" style="vertical-align: text-middle; padding-top: 8px;">
+
+		<!--  deactivated toggle nav 
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button> -->
+        
+        <div>
+	        <a id="simple-menu" style="padding:5px 10px 5px 10px; 
+	        	color: #eee; float:left; 
+	        	font-size:12pt; border-radius:0.25; background: #666; 
+	        	margin: 0px 10px 0px -5px; href="">
+	        <i class="fa fa-bars" style="padding-left:10px;"> menu</i>
+	        </a> 
+        </div>
+        
+        <div style="float:inline; width: 500px; font-size: 18pt;">
+        <span style="color:#999">{{ PAGE.appTitle }}</span><span style="color: #000"> {{ PAGE.pageTitle }}</span>
+        </div>
+                
+    </div>
+    <!-- /.navbar-header -->
+    <header-notification></header-notification>
+
+    <!--  <sidebar></sidebar>--> 
+    
+    <div id="sidr">
+	  <!-- Your content -->
+	  <ul ng-repeat="v_menuSection in PAGE.getMenuList()">
+	    <li><a href="#">{{v_menuSection.label}}</a>
+	    	<ul ng-repeat="v_menuItem in v_menuSection.items">
+	    		<li><a ui-sref="{{v_menuItem.uisref}}">{{v_menuItem.label}}</a></li>
+	    	</ul>
+	    </li>
+	  </ul>
+	</div>
+    
+</nav>
+
+
