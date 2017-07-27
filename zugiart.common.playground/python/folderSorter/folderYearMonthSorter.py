@@ -8,9 +8,9 @@ import sys
 # see https://docs.python.org/3/library/argparse.html#the-add-argument-method
 parser = argparse.ArgumentParser(description='Utilities to sort files into year and month folder. Scans [inputFolder] for file and sort them into year & months, folders created in [outputFolder]. When scanning, multiple [excludeFolder] can be added. if [testMode] is specified, it will not perform the actual sorting, only print the indexing result.')
 
-parser.add_argument('--inputFolder', 
+parser.add_argument('--inputFolder',
 		required=True,
-		dest='inputFolder', 
+		dest='inputFolder',
 		help="input folder to sort")
 
 parser.add_argument("--excludeFolder",
@@ -19,9 +19,9 @@ parser.add_argument("--excludeFolder",
 		dest="inputFolderExclude",
 		help="list of folders to exclude, eg. --excludeFolder='bobcat' will exclude all folder containing the word 'bobcat'. can specify in multiple, eg. --excludeFolder='bob' --excludeFolder='cat'")
 
-parser.add_argument("--outputFolder", 
+parser.add_argument("--outputFolder",
 		required=True,
-		dest="outputFolder", 
+		dest="outputFolder",
 		help="where output will be sorted to")
 
 parser.add_argument("--testMode",
@@ -30,13 +30,23 @@ parser.add_argument("--testMode",
 		help="when specified, will not actually do sorting, just logs",
 		action="store_true")
 
-# Global variable to indicate if 
+parser.add_argument("--deleteSource",
+		required=False,
+		dest="deleteSource",
+		help="when specified, will not only copy, but also delete file from source input directory",
+		action="store_true")
+
+# Global variable to indicate if
 __TESTMODE=False
 
 def idxYearMonth(inputDir, excludeList):
+
+	if excludeList is None: excludeList = []
+	
 	print "# Indexing "+inputDir
 	print "  exclude list: %s" % excludeList
 	idx={}
+
 	for root, dir, files in os.walk(inputDir):
 		print "root   : "+root
 		isExclude=False
@@ -44,22 +54,25 @@ def idxYearMonth(inputDir, excludeList):
 			if exclude in root:
 				isExclude=True
 		if isExclude: continue
+
+		print fnmatch.filter(files,"*")
+
 		for items in fnmatch.filter(files, "*"):
 			fpath=os.path.join(root,items)
 
 			# for files named "YYYYMMDD_*" parse from filename
-			try: 
+			try:
 				ftime = datetime.datetime.strptime(items[:8], '%Y%m%d')
 				ftime.strftime("%Y") # check and test if time is valid or not
 			except: ftime = None
-			
+
 			# if doesn't work, try to parse from filename as ms from epoch
 			# eg 1442968856129 but only take first 10 digit
-			if ftime is None: 
+			if ftime is None:
 				try:
 					ftime = datetime.datetime.fromtimestamp(int(items[:10]))
 					ftime.strftime("%Y")
-				except: 
+				except:
 					print ("ERROR",sys.exc_info()[0])
 					ftime = None
 
@@ -83,19 +96,23 @@ def __makeDir(path):
 	global __TESTMODE
 	if not __TESTMODE and not os.path.exists(path): os.makedirs(path)
 
-def __copy2(f,destDir):
+def __copy2(f,destDir,deleteSource):
 	global __TESTMODE
-	if not __TESTMODE: shutil.copy2(f,destDir)
+	if not __TESTMODE:
+		shutil.copy2(f,destDir)
+		if deleteSource: os.remove(f)
 
 def main():
 	global __TESTMODE
 	args = parser.parse_args()
-	print args.inputFolder
-	print args.inputFolderExclude
-	print args.outputFolder
+	print "### PARAM ###"
+	print "input folder    = %s" % args.inputFolder
+	print "input exclude   = %s" % args.inputFolderExclude
+	print "output folder   = %s" % args.outputFolder
+	print "delete source   = %s" % args.deleteSource
 
 	if args.testMode:
-		print " ### TEST MODE ###"
+		print "************ TEST MODE ****************"
 		__TESTMODE=True
 
 	idx = idxYearMonth(args.inputFolder, args.inputFolderExclude)
@@ -112,9 +129,9 @@ def main():
 			mpath=os.path.join(ypath,month)
 			__makeDir(mpath)
 			for f in idx[year][month]:
-				print "%s/%s > %s" % (year,month,f)
-				__copy2(f,mpath)
-
-				
+				__copy2(f,mpath,args.deleteSource)
+				deleteMark=""
+				if args.deleteSource: deleteMark="[X] "
+				print "%s/%s > %s%s" % (year,month,deleteMark,f)
 
 if __name__ == "__main__": main()
