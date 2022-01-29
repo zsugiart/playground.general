@@ -14,7 +14,7 @@ from datetime import datetime
 __TESTMODE=False
 
 # see https://docs.python.org/3/library/argparse.html#the-add-argument-method
-parser = argparse.ArgumentParser(description='Utilities that looks for *.mp3 files with mathcing descriptor file (.txt)')
+parser = argparse.ArgumentParser(description='Utilities that looks for *.mp4 files with mathcing descriptor file (.txt)')
 
 parser.add_argument('--filter',
         required=False,
