@@ -508,8 +508,6 @@ function cmd_pip() {
 
 
 
-
-
 #% <doc:>
 #@ secret <1:update/extract] >
 #@   manage secret files within _local/* folder
@@ -521,8 +519,7 @@ function cmd_pip() {
 #@            and, do remember how to unlock the password.
 #@
 #% </doc:>
-function cmd_secret() 
-{
+function cmd_secret() {
 
 	log_header "================================ SECRET ====================================="
 
@@ -544,7 +541,6 @@ function cmd_secret()
 	fi
 	rm .requirements.now &> /dev/null
 	rm .diff.tmp &> /dev/null
-	
 }
 
 # =============================================================================================================
